@@ -8,4 +8,45 @@ The game is about defeating opponents (mice) and improving the main character (c
 
 # Additional information
 
-This game is fully functional. You can download this repository and run the Python_Gra.py file. There might be a possibility that you could have some missing modules. After downloading the missing parts you should be able to run the game. If you don't want to run it on your own device - you can go into the screenshots directory to have a little insight of the game.
+This game is fully functional. You can download this repository and run the Python_Gra.py file. There might be a possibility that you could have some missing modules. After downloading the missing parts you should be able to run the game. If you don't want to run it on your own device - you can have a little insight of the game with the images below (or in the ScreenShots directory).
+
+# Screenshots:
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_boss.jpg" />
+</p>
+
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_first_weapons.jpg" />
+</p>
+
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_gameplay.jpg" />
+</p>
+
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_highscores.jpg" />
+</p>
+
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_over.jpg" />
+</p>
+
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_save_score.jpg" />
+</p>
+
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_start.jpg" />
+</p>
+
+
+<p align="center">
+<img src="https://github.com/Damianf99/Mouse-CATching/blob/main/ScreenShots/Game_store.jpg" />
+</p>
